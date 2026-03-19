@@ -290,6 +290,7 @@
   height: 96px;
   width: auto;
   margin-bottom: var(--wss-space-4);
+  filter: brightness(0) invert(1);
 }
 
 .wss-footer__tagline {
