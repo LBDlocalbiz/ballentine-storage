@@ -35,21 +35,22 @@
 
 .wss-btn--secondary {
   background-color: var(--wss-secondary);
-  color: var(--wss-primary);
+  color: white;
 }
 
 .wss-btn--secondary:hover {
   background-color: var(--wss-secondary-300);
-  color: var(--wss-primary);
+  color: var(--wss-secondary);
 }
 
 .wss-btn--accent {
   background-color: var(--wss-accent);
-  color: white;
+  color: var(--wss-primary);
 }
 
 .wss-btn--accent:hover {
   background-color: var(--wss-accent-600);
+  color: var(--wss-primary);
 }
 
 .wss-btn--outline {
