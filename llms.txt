@@ -1,0 +1,42 @@
+# Ballentine Storage
+
+> Secure, affordable self storage units in Irmo, SC. Climate-controlled units, drive-up access, and 24/7 security.
+
+Ballentine Storage is a self-storage facility located at 1005 State Rd S-40-286, Irmo, SC 29063. We serve Irmo, Lexington County, Richland County, White Rock, and Seven Oaks. Month-to-month leases with no long-term commitment.
+
+## Services
+
+- [Self Storage Facility](https://ballentinestorage.com/services/self-storage-facility)
+- [Storage Facility](https://ballentinestorage.com/services/storage-facility)
+- [Business Storage](https://ballentinestorage.com/services/business-storage)
+- [Climate Controlled Storage](https://ballentinestorage.com/services/climate-controlled-storage)
+
+## Areas We Serve
+
+- [Irmo, SC](https://ballentinestorage.com/cities/irmo-south-carolina)
+- [Lexington County, SC](https://ballentinestorage.com/cities/lexington-county-south-carolina)
+- [Richland County, SC](https://ballentinestorage.com/cities/richland-county-south-carolina)
+- [White Rock, SC](https://ballentinestorage.com/cities/white-rock-south-carolina)
+- [Seven Oaks, SC](https://ballentinestorage.com/cities/seven-oaks-south-carolina)
+
+## Resources
+
+- [Size Guide](https://ballentinestorage.com/size-guide)
+- [FAQs](https://ballentinestorage.com/faqs)
+- [Contact Us](https://ballentinestorage.com/contact)
+- [About Us](https://ballentinestorage.com/about)
+- [Blog](https://blog.ballentinestorage.com)
+
+## Contact
+
+- Phone: (803) 781-1606
+- Email: info@ballentineselfstorage.com
+- Address: 1005 State Rd S-40-286, Irmo, SC 29063
+- Hours: 24 Hour Access
+- [Get Directions](https://maps.app.goo.gl/vwyqkrfcxa6vd1P27)
+- [Pay My Bill](https://ballentinestorage.ccstorage.com/session/new)
+
+## Optional
+
+- [LLM-LD Index](https://ballentinestorage.com/llm-index.json): Full structured data for AI agents
+- [Full LLM Context](https://ballentinestorage.com/llms-full.txt): Extended information for AI systems

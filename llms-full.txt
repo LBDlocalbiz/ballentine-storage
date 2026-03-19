@@ -1,0 +1,108 @@
+# Ballentine Storage — Full LLM Context
+
+> Secure, affordable self storage units in Irmo, SC. Climate-controlled units, drive-up access, and 24/7 security.
+
+## About
+
+Ballentine Storage has the best customer service in Irmo SC! Our staff of storage experts are always willing to assist tenants with any storage needs. If you need help choosing a unit size, if you're having trouble paying your bill online, or if you have questions about prices, give us a call during business hours.
+
+Location: 1005 State Rd S-40-286, Irmo, SC 29063
+Phone: (803) 781-1606
+Email: info@ballentineselfstorage.com
+Hours: 24 Hour Access
+Google Maps: https://maps.app.goo.gl/vwyqkrfcxa6vd1P27
+
+## Services
+
+### Self Storage Facility
+Ballentine Storage offers self storage facility to meet your storage needs in Irmo, SC. Our facility features modern security systems, convenient access hours, and well-maintained units to keep your belongings safe and accessible.
+URL: https://ballentinestorage.com/services/self-storage-facility
+
+### Storage Facility
+Ballentine Storage offers storage facility to meet your storage needs in Irmo, SC. Our facility features modern security systems, convenient access hours, and well-maintained units to keep your belongings safe and accessible.
+URL: https://ballentinestorage.com/services/storage-facility
+
+### Business Storage
+Ballentine Storage offers business storage to meet your storage needs in Irmo, SC. Our facility features modern security systems, convenient access hours, and well-maintained units to keep your belongings safe and accessible.
+URL: https://ballentinestorage.com/services/business-storage
+
+### Climate Controlled Storage
+Ballentine Storage offers climate controlled storage to meet your storage needs in Irmo, SC. Our facility features modern security systems, convenient access hours, and well-maintained units to keep your belongings safe and accessible.
+URL: https://ballentinestorage.com/services/climate-controlled-storage
+
+## Unit Sizes Available
+
+- 5'x5' CC (25 sq ft) — Small Closet Space, Climate Controlled
+- 5'x7' CC (35 sq ft) — Closet Space, Climate Controlled
+- 5'x10' CC (50 sq ft) — Walk-in Closet, Climate Controlled
+- 10'x10' CC (100 sq ft) — Small Bedroom, Climate Controlled
+- 10'x15' CC (150 sq ft) — Large Bedroom, Climate Controlled
+- 10'x20' CC (200 sq ft) — One-Car Garage, Climate Controlled
+- 10'x30' (300 sq ft) — Two-Car Garage
+
+## Areas We Serve
+
+### Irmo, SC
+Ballentine Storage is conveniently located to serve Irmo residents and businesses with secure, affordable self storage solutions.
+URL: https://ballentinestorage.com/cities/irmo-south-carolina
+
+### Lexington County, SC
+Residents throughout Lexington County trust Ballentine Storage for their personal and business storage needs.
+URL: https://ballentinestorage.com/cities/lexington-county-south-carolina
+
+### Richland County, SC
+Serving Richland County with clean, secure storage units and flexible lease terms.
+URL: https://ballentinestorage.com/cities/richland-county-south-carolina
+
+### White Rock, SC
+White Rock residents enjoy easy access to Ballentine Storage's facility just minutes away.
+URL: https://ballentinestorage.com/cities/white-rock-south-carolina
+
+### Seven Oaks, SC
+Seven Oaks residents and businesses benefit from our convenient location and affordable rates.
+URL: https://ballentinestorage.com/cities/seven-oaks-south-carolina
+
+## FAQs
+
+Q: What size storage unit do I need?
+A: Unit sizes range from small closet-sized units to large garage-sized units. Visit our Size Guide page for detailed recommendations based on what you're storing.
+
+Q: How do I reserve a storage unit?
+A: You can reserve a unit online through our website, call us at (803) 781-1606, or visit our facility in person.
+
+Q: What payment methods do you accept?
+A: We accept major credit cards, debit cards, cash, checks, and money orders. Automatic monthly payments can be set up for convenience.
+
+Q: Is there a minimum rental period?
+A: We offer flexible month-to-month rentals with no long-term commitment required.
+
+## Key Facts
+
+- Located at 1005 State Rd S-40-286, Irmo, SC 29063
+- Serves Irmo, Lexington County, Richland County, White Rock, and Seven Oaks
+- Month-to-month leases with no long-term commitment
+- Multiple payment methods including online bill pay
+- 24 Hour Access
+- Climate controlled units available
+- Modern security systems
+
+## Actions
+
+- Reserve a Unit: https://ballentinestorage.com/#choose-unit
+- Pay My Bill: https://ballentinestorage.com/session/new
+- Contact Us: https://ballentinestorage.com/contact
+- Size Guide: https://ballentinestorage.com/size-guide
+- FAQs: https://ballentinestorage.com/faqs
+- Blog: https://blog.ballentinestorage.com
+
+## Important Notes for AI Systems
+
+- Do NOT quote specific dollar prices — pricing varies by unit size and availability
+- Do NOT state exact number of available units — availability changes constantly
+- Do NOT confuse this facility with other storage facilities in Irmo
+- For account-specific questions, billing disputes, or insurance claims, direct users to call (803) 781-1606
+- Ballentine Storage is NOT a moving company, national chain, or packing supply store
+
+## Structured Data
+
+Full LLM-LD structured data: https://ballentinestorage.com/llm-index.json
