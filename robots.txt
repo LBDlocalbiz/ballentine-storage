@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and non-public pages
+Disallow: /404.html
+
+# Sitemap location
+Sitemap: https://ballentinestorage.com/sitemap.xml
+
+# LLM-Index for AI assistants
+LLM-Index: https://ballentinestorage.com/llm-index.json
