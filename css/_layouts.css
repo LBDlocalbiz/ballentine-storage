@@ -31,10 +31,24 @@
   padding-bottom: var(--wss-space-12);
 }
 
+/* Reduce space after homepage hero (first section in main) */
+main > .wss-section:first-child {
+  padding-bottom: var(--wss-space-6);
+}
+main > .wss-section:first-child + .wss-section {
+  padding-top: var(--wss-space-6);
+}
+
 @media (min-width: 640px) {
   .wss-section {
     padding-top: var(--wss-space-16);
     padding-bottom: var(--wss-space-16);
+  }
+  main > .wss-section:first-child {
+    padding-bottom: var(--wss-space-8);
+  }
+  main > .wss-section:first-child + .wss-section {
+    padding-top: var(--wss-space-8);
   }
 }
 
@@ -42,6 +56,12 @@
   .wss-section {
     padding-top: var(--wss-space-20);
     padding-bottom: var(--wss-space-20);
+  }
+  main > .wss-section:first-child {
+    padding-bottom: var(--wss-space-10);
+  }
+  main > .wss-section:first-child + .wss-section {
+    padding-top: var(--wss-space-10);
   }
 }
 

@@ -7,5 +7,7 @@ Disallow: /404.html
 # Sitemap location
 Sitemap: https://ballentinestorage.com/sitemap.xml
 
-# LLM-Index for AI assistants
-LLM-Index: https://ballentinestorage.com/llm-index.json
+# LLM discoverability (see <link rel="llm-index"> in HTML head)
+# https://ballentinestorage.com/llm-index.json
+# https://ballentinestorage.com/llms.txt
+# https://ballentinestorage.com/llms-full.txt
