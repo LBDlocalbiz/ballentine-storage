@@ -2026,8 +2026,9 @@
   text-decoration: underline;
 }
 
-/* City page FAQs — always visible (not accordion) */
-.wss-city-faqs .wss-faq-item__answer {
+/* City & service page FAQs — always visible (not accordion) */
+.wss-city-faqs .wss-faq-item__answer,
+.wss-service-faqs .wss-faq-item__answer {
   display: block;
 }
 
